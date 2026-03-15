@@ -1,0 +1,82 @@
+{
+  "token": "BOT-TOKEN-HERE",
+  "prefix": "=",
+  "brand_name": "Kairo's Studio",
+  "activity_text": "Kairo's Studio",
+  "whitelisted_role_ids": [
+    1482727867770081321
+  ],
+  "ticket_owner_role_ids": [
+    0
+  ],
+  "logs_channel_id": 1482728180128420110,
+  "ticket_panel_color": "0x5865F2",
+  "ticket_panel_description": "Choose the ticket type that best matches your request and we'll be right with you.",
+  "website_url": "https://kairosstudio.example.com/",
+  "website_container_color": "0xFF4FCB",
+  "tos_url": "https://discord.com/channels/1446626338726482122/1446627638914449552",
+  "tos_container_color": "0x87CEEB",
+  "assets": {
+    "primary_logo": "https://imgur.com/a/3LD6C7U#CcCmoCl",
+    "secondary_logo": "https://imgur.com/a/3LD6C7U#CcCmoCl",
+    "panel_banner": "https://cdn.kairosstudio.example.com/branding/panel-banner.png",
+    "purchase_icon": "<:dolar:1446871271584567446>",
+    "support_icon": "<:question:1446871332972265512>"
+  },
+  "roblox": {
+    "username": "",
+    "universe_id": ""
+  },
+  "ticketing": {
+    "purchase": {
+      "category_id": 1482725822690234368,
+      "staff_role_ids": [
+        1446629173400440852
+      ],
+      "transcript_channel_id": 1482726434781921301,
+      "role_ping_id": 1482727867770081321,
+      "color": "0x87CEEB",
+      "display_name": "Purchase Ticket"
+    },
+    "application": {
+      "category_id": 1482728631884316704,
+      "staff_role_ids": [
+        1482727867770081321
+      ],
+      "transcript_channel_id": 1482728687429222575,
+      "role_ping_id": 1482727867770081321,
+      "color": "0x2ECC71",
+      "display_name": "Application Ticket"
+    },
+    "request": {
+      "category_id": 1482725822690234368,
+      "staff_role_ids": [
+        1482727867770081321
+      ],
+      "transcript_channel_id": 1482726434781921301,
+      "role_ping_id": 1482727867770081321,
+      "color": "0xFEE75C",
+      "display_name": "Request Ticket"
+    },
+    "support": {
+      "category_id": 1482725811785302111,
+      "staff_role_ids": [
+        1482727867770081321
+      ],
+      "transcript_channel_id": 1482726400439095419,
+      "role_ping_id": 1482727867770081321,
+      "color": "0x87CEEB",
+      "display_name": "Support Ticket"
+    },
+    "report": {
+      "category_id": 1482729002623041641,
+      "staff_role_ids": [
+        1482727867770081321
+      ],
+      "transcript_channel_id": 1482729064417726606,
+      "role_ping_id": 1482727867770081321,
+      "color": "0xED4245",
+      "display_name": "Report Ticket"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+discord.py>=2.3.2
+chat-exporter>=2.1.1
+python-dotenv>=1.0.0
+aiohttp>=3.9.1
